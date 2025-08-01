@@ -1,0 +1,9 @@
+/*
+  Gaya khusus untuk permainan Roda Ayat Sakti.
+  Fail ini melengkapkan kelas Tailwind yang digunakan dalam index.html.
+*/
+
+/* Animasi putaran roda */
+.roda-transition {
+  transition: transform 1.5s cubic-bezier(0.33, 1, 0.68, 1);
+}
